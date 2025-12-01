@@ -1,3 +1,5 @@
 {
-    "workbench.editor.historyBasedLanguageDetection": true
+    "workbench.editor.historyBasedLanguageDetection": true,
+    "chat.tools.terminal.terminalProfile.windows": null,
+    "github.copilot.chat.localeOverride": "en"
 }
