@@ -11,6 +11,7 @@ I generally strive to implement the solutions myself to sharpen my problem-solvi
 | Day | Part 1 | Part 2 | Solution |
 |-----|--------|--------|----------|
 | 1   | ⭐     | ⭐     | [Python](python/day01.py) |
+| 2   | ⭐     | ⭐     | [Python](python/day02.py) |
 
 ## Running the Solutions
 
