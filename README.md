@@ -10,15 +10,19 @@ I generally strive to implement the solutions myself to sharpen my problem-solvi
 
 | Day | Part 1 | Part 2 | Solution |
 |-----|--------|--------|----------|
-| 1   | ⭐     | ⭐     | [Python](python/day01.py) |
+| 1   | ⭐     | ⭐     | [Python](python/day01.py), [R](R/day01.R) |
 | 2   | ⭐     | ⭐     | [Python](python/day02.py) |
 
 ## Running the Solutions
 
 ```bash
-# Navigate to the python directory
+# Run Python solutions
 cd python
-
-# Run a specific day's solution
 python day01.py
+
+# Run R solution (if Rscript is on your PATH)
+Rscript ../R/day01.R
+
+# On Windows, if Rscript is not on PATH you can use the absolute path, for example:
+"C:/Software/R/R-4.3.1/bin/Rscript.exe" R/day01.R
 ```
