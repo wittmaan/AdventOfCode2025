@@ -13,6 +13,7 @@ I generally strive to implement the solutions myself to sharpen my problem-solvi
 | 1   | ⭐     | ⭐     | [Python](python/day01.py), [R](R/day01.R) |
 | 2   | ⭐     | ⭐     | [Python](python/day02.py) |
 | 3   | ⭐     | ⭐     | [Python](python/day03.py) |
+| 4   | ⭐     | ⭐     | [Python](python/day04.py) |
 
 ## Running the Solutions
 
