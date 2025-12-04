@@ -15,6 +15,14 @@ I generally strive to implement the solutions myself to sharpen my problem-solvi
 | 3   | ⭐     | ⭐     | [Python](python/day03.py) |
 | 4   | ⭐     | ⭐     | [Python](python/day04.py) |
 
+## Day 4 Visualization
+
+Day 4 involves iteratively removing paper rolls that forklifts can access. Here's a visualization of the process:
+
+![Paper Roll Removal Process](paper_rolls_removal.gif)
+
+The animation shows how removing accessible rolls (blue squares) creates new opportunities for accessing previously inaccessible rolls, demonstrating a cascading effect similar to puzzle games.
+
 ## Running the Solutions
 
 ```bash
