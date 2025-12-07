@@ -14,6 +14,7 @@ I generally strive to implement the solutions myself to sharpen my problem-solvi
 | 2   | ⭐     | ⭐     | [Python](python/day02.py) |
 | 3   | ⭐     | ⭐     | [Python](python/day03.py) |
 | 4   | ⭐     | ⭐     | [Python](python/day04.py) |
+| 5   | ⭐     | ⭐     | [Python](python/day05.py) |
 
 ## Day 4 Visualization
 
